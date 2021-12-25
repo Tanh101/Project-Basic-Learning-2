@@ -19,11 +19,7 @@ void Show(float a[], int n)
 float F(float a[], int n)
 {
     float res = 2021;
-    int i; 
-    for(i = 1; i <= n; i++)
-    {
-        res += (a[i] + 2*i + 1)/ (2 * i + 7);
-    }
+    
     return res;
 }
 int main()
