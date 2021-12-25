@@ -10,12 +10,7 @@ void Nhap(float a[], int n)
 }
 void Show(float a[], int n)
 {
-    int i;
-    for(i = 1; i <= n; i++)
-    {
-        printf("%f ", a[i]);
-    }
-}
+    
 float F(float a[], int n)
 {
     float res = 2021;
