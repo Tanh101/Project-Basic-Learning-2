@@ -1,0 +1,35 @@
+
+                                                                                DANH SACH XE VA TINH TRANG TRONG HE THONG
+                                                        ------------------------------------------------------------------------------------
+                                                                Customer 1
+                                                                                Ten nguoi thue: Ly Van Tanh
+                                                                                CMND: 197418236
+                                                                                Tuoi: 19
+                                                                                Dia Chi: Lien Chieu, Da Nang
+                                                                                So dien thoai: 099247454
+                                                                                Hang xe: Exciter Yamaha
+                                                                                Bien so: 29F1-1921
+                                                                                Loai xe: 150CC
+                                                                                Mau son: Xanh Duong
+                                                                                Gia Thue: 120000/Ngay
+                                                                                Tinh Trang Xe: Da Thue
+                                                                                Ngay Thue: 19 / 12 / 2021
+                                                                                So ngay thue: 12
+                                                                                So tien thanh toan: 1440000
+                                                        ------------------------------------------------------------------------------------
+                                                                Customer 2
+                                                                                Ten nguoi thue: Nguyen Khach Thai
+                                                                                CMND: 1234567
+                                                                                Tuoi: 19
+                                                                                Dia Chi: Hai Chau, Da Nang
+                                                                                So dien thoai: 099387491
+                                                                                Hang xe: Honda WinnerX
+                                                                                Bien so: 39F3-12238
+                                                                                Loai xe: 150CC
+                                                                                Mau son: Do Xanh
+                                                                                Gia Thue: 130000/Ngay
+                                                                                Tinh Trang Xe: Da Thue
+                                                                                Ngay Thue: 19 / 12 / 2021
+                                                                                So ngay thue: 25
+                                                                                So tien thanh toan: 3250000
+                                                        ------------------------------------------------------------------------------------
