@@ -1,2 +1,3 @@
 # Project-Basic-Learning-3
-HỆ THỐNG QUẢN LÝ CỮA HÀNG THUÊ XE MÁY 
+HỆ THỐNG QUẢN LÝ CỬA HÀNG THUÊ XE MÁY
+SỬ DỤNG GIAO DIỆN CONSOLE VÀ OOP C++
